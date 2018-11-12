@@ -759,7 +759,7 @@ footer a:active {
   }
 }
 
-@media only screen and (max-width: 700px) and (min-width: 600px){
+@media only screen and (max-width: 700px) and (min-width: 300px){
 
   .rapper {
     padding: 0;
@@ -870,8 +870,8 @@ footer a:active {
     width: 100%;
   }
 }
-
-/*@media only screen and (max-width: 508px) and (min-width: 400px){
+/*
+@media only screen and (max-width: 600px) and (min-width: 300px){
 
   h1 {
     font-size: 5em;
@@ -1013,149 +1013,5 @@ footer a:active {
     padding: 0;
     float: none;
   }
-}*/
-
-@media only screen and (max-width: 600px) and (min-width: 300px){
-/*  body {
-    background-color: coral;
-  }*/
-
-  .rapper {
-    padding: 0;
-    float: none;
-  }
-
-  h1 {
-    font-size: 2em;
-  }
-
-  h2 {
-    font-size: 1em;
-  }
-
-  h4 {
-    font-size: .5em;
-  }
-
-  .f1{
-    line-height: .5em;
-    color: #fff;
-    font-family: 'Roboto Slab', serif;
-    font-size: .25em;
-    text-align: center;
-    margin: .5em;
-    font-weight: 300;
-    display: block;
-  }
-
-  .parent1 {
-    float: none;
-    width: 100%;
-    height: auto;
-    margin-bottom: .5em;  
-  }
-
-  .parent2 {
-    float: none;
-    width: 100%;
-    height: auto;
-    margin-bottom: .5em; 
-  }
-
-  .parent3 {
-    float: none;
-    width: 100%%;
-    height: auto;
-  }
-
-  .parent4 {
-    float: none;
-    width: 100%;
-    height: auto;
-    margin-bottom: 1em; 
-  }
-
-  .parent5 {
-    float: none;
-    width: 100%;
-    height: auto;
-    margin-bottom: .5em; 
-  }
-
-  h3 {
-    font-size: .25em;
-  }
-
-  h2 {
-    padding: 0;
-    font-size: 1em;
-  }
-
-  img {
-    padding: .25em;
-    width: 90%;
-  }
-
-  .cardcopy-bottompadding {
-    padding: 0;
-  }
-
-  .parent2 {
-    padding-bottom: .5em;
-  }
-
-   .cardcopy-justify {
-    padding: 0;
-  }
-
-  .parent4 img {
-    width: 90%;
-    height: auto;
-  }
-
-   .cardcopy-justify-2 {
-    padding: 0;
-  }
-
-  .next {
-    padding: 0 0 0 .25em;
-    font-size: 1.5em;
-  }
-
-  .p1 {
-    padding: 1em 0 0 .5em;
-  }
-
-  .p2 {
-    padding:.25em 0 0 .5em;
-  }
-
-  .parent3 {
-    width: 100%;
-  }
-  
-  .wrapper {
-    padding: 0;
-    margin: 0 auto;
-  }
-
-  .wrapper2 {
-    padding: 0;
-    margin: 0em auto;
-  }
-
-  .wrapper3 {
-    padding:0;
-    margin: 0em auto;
-    background-color: #FE12E7;
-  }
-
-  .intro {
-    border: .10em solid #FE12E7;
-    padding: .5em;
-    border-radius: .125em;
-    font-family: 'Roboto Slab', serif;
-    font-size: .5em;
-    margin: 1em 1em 0 1em;
-  }
 }
+*/
