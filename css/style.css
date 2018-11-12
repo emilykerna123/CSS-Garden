@@ -757,6 +757,16 @@ footer a:active {
   .parent3 {
     width: 100%;
   }
+
+  .intro {
+    float: right;
+    border: .10em solid #FE12E7;
+    padding: 1.25em;
+    border-radius: .125em;
+    font-family: 'Roboto Slab', serif;
+    font-size: .65m;
+    margin: 2.5em 3em .5em 3em; 
+  }
 }
 
 /*@media only screen and (max-width: 700px) and (min-width: 500px){
@@ -1071,7 +1081,7 @@ footer a:active {
     padding: 1.25em;
     border-radius: .125em;
     font-family: 'Roboto Slab', serif;
-    font-size: .80em;
+    font-size: .65m;
     margin: 2.5em 3em .5em 3em; 
   }
 
