@@ -762,7 +762,7 @@ footer a:active {
 @media only screen and (max-width: 700px) and (min-width: 250px){
 
   .wrapper2 {
-    padding: 0 6em 0 6em;
+    padding: 0 2em 0 4em;
     margin: 3em auto;
     text-align: justify;
   }
@@ -796,7 +796,7 @@ footer a:active {
     font-family: 'Roboto Slab', serif;
     font-size: 1em;
     text-align: center;
-    margin: 2em;
+    margin: 0;
     font-weight: 400;
     display: block;
   }
@@ -819,7 +819,7 @@ footer a:active {
 
   .parent3 {
     float: none;
-    width: 100%%;
+    width: 95%;
     height: auto;
     margin: 3em auto;
     display: block;
@@ -831,7 +831,7 @@ footer a:active {
     height: auto;
     display: block;
     margin: 3em auto;
-    padding: 1em 0;
+    padding: 0;
   }
 
   .parent5 {
@@ -840,7 +840,7 @@ footer a:active {
     height: auto;
     display: block;
     margin: 3em auto;
-    padding: 3em 0;
+    padding: 0;
   }
 
   h3 {
@@ -898,7 +898,7 @@ footer a:active {
   }
 
   .parent3 {
-    width: 100%;
+    width: 95%;
   }
 
   .intro {
@@ -908,7 +908,7 @@ footer a:active {
     border-radius: .125em;
     font-family: 'Roboto Slab', serif;
     font-size: 1em;
-    margin: 4em 3.5em 1em 4.5em; 
-    width: 100%;
+    margin: 4em 3.5em 1em 2.75em; 
+    width: 95%;
     text-align: left;
   }
