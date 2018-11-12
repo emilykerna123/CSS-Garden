@@ -693,7 +693,7 @@ footer a:active {
 
   .parent3 {
     float: none;
-    width: 100%%;
+    width: 100%;
     height: auto;
   }
 
@@ -763,7 +763,7 @@ footer a:active {
 
   .wrapper2 {
     padding: 8em 4em 0 4em;
-    margin: 3em auto;
+    margin: 1em auto;
     text-align: left;
   }
 
@@ -795,7 +795,7 @@ footer a:active {
     line-height: 2em;
     color: #fff;
     font-family: 'Roboto Slab', serif;
-    font-size: .8em;
+    font-size: 1em;
     text-align: center;
     margin: 2em;
     font-weight: 400;
@@ -820,7 +820,7 @@ footer a:active {
 
   .parent3 {
     float: none;
-    width: 95%;
+    width: 100%;
     height: auto;
     margin: 3em auto;
     display: block;
@@ -860,10 +860,6 @@ footer a:active {
 
   .cardcopy-bottompadding {
     padding: 3em 2em 0 2em;
-  }
-
-  .parent2 {
-    padding-bottom: 1em;
   }
 
    .cardcopy-justify {
