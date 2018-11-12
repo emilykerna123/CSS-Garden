@@ -371,7 +371,6 @@ footer a:active {
 .parent2 {
   box-shadow: 0 1px 3px rgba(0,0,0,0.10), 0 1px 2px rgba(0,0,0,0.10);
   display: block;
-  width: 28%;
   float: left;
   height: auto;
   margin: 2.5% 2.5% 2.5% 2.5%;
@@ -457,7 +456,7 @@ footer a:active {
 
 .rapper {
   padding: 9em;
-}
+ }
 
 @media only screen and (max-width: 1204px) and (min-width:1150px){
 /*    body {
@@ -482,12 +481,12 @@ footer a:active {
   }
 
   .parent4 img {
-  width: 85%;
-  height: auto;
-}
+    width: 85%;
+    height: auto;
+  }
 }
 
-@media only screen and (max-width: 1150px) and (min-width:1116px){
+@media only screen and (max-width: 1150px) and (min-width:1094px){
 /*    body {
     background-color: pink;
   }*/
@@ -506,7 +505,7 @@ footer a:active {
   }
 
   .parent2 {
-    padding-bottom: 10.1em;
+    padding-bottom: 6em;
   }
 
    .cardcopy-justify {
@@ -516,74 +515,9 @@ footer a:active {
   .cardcopy-bottompadding {
     padding: 3em 4em 0 4em;
   }
-
 }
 
-@media only screen and (max-width: 1116px) and (min-width: 1050px){
-/*    body {
-    background-color: teal;
-  }*/
-
-    h3 {
-    font-size: 1.3em;
-  }
-
-   img {
-    padding: 4em 3em;
-    width: 85%;
-  }
-
-  .parent2 {
-    padding-bottom: 6em;
-  }
-
-   .cardcopy-justify {
-    padding:3em 3em 2.7em 3em;
-  }
-
-  h1 {
-    font-size: 5em;
-  }
-
-  .parent4 img {
-   width: 80%;
-   height: auto;
-  }
-
-  .cardcopy-bottompadding {
-    padding: 3em 3em 0 3em;
-  }
-
-   .parent3 {
-    width: 70%;
-  }
-
-  .f1{
-    line-height: 2em;
-    display: inline-block;
-    color: #fff;
-    font-family: 'Roboto Slab', serif;
-    font-size: .95em;
-    text-align: center;
-    margin: 2.45em;
-    font-weight: 400;
- }
-
- .p1 {
-    font-size: .15em;
-    padding: 2em 1em 0 0;
- }
-
-  .p2 {
-    font-size: .15em;
-    padding: 1em 1em 0 0;
- }
-}
-
-@media only screen and (max-width: 1050px) and (min-width: 995px){
-/*  body {
-    background-color: yellow;
-  }*/
+@media only screen and (max-width: 1094px) and (min-width: 995px){
 
   h1 {
     font-size: 4.75em;
@@ -648,9 +582,6 @@ footer a:active {
 }
 
 @media only screen and (max-width: 995px) and (min-width: 850px){
-/*  body {
-    background-color: purple;
-  }*/
 
   h1 {
     font-size: 4.25em;
@@ -721,10 +652,7 @@ footer a:active {
   }
 }
 
-@media only screen and (max-width: 850px) and (min-width: 650px){
-/*  body {
-    background-color: gold;
-  }*/
+@media only screen and (max-width: 850px) and (min-width: 700px){
 
   h1 {
     font-size: 6.5em;
@@ -773,14 +701,14 @@ footer a:active {
     float: none;
     width: 100%;
     height: auto;
-    margin-bottom: 5em; 
+    margin-bottom: .55em; 
   }
 
   .parent5 {
     float: none;
     width: 100%;
     height: auto;
-    margin-bottom: 5em; 
+    margin-bottom: .5em; 
   }
 
   h3 {
@@ -831,10 +759,12 @@ footer a:active {
   }
 }
 
-@media only screen and (max-width: 650px) and (min-width: 400px){
-/*  body {
-    background-color: coral;
-  }*/
+@media only screen and (max-width: 700px) and (min-width: 508px){
+
+  .rapper {
+    padding: 0;
+    float: none;
+  }
 
   h1 {
     font-size: 6.5em;
@@ -938,12 +868,10 @@ footer a:active {
 
   .parent3 {
     width: 100%;
+  }
 }
 
-@media only screen and (max-width: 400px) and (min-width: 200px){
-/*  body {
-    background-color: coral;
-  }*/
+@media only screen and (max-width: 508px) and (min-width: 300px){
 
   h1 {
     font-size: 5em;
@@ -1012,7 +940,7 @@ footer a:active {
   }
 
   .cardcopy-bottompadding {
-    padding: 3em .15em 0 .15em;
+    padding: 0;
   }
 
   .parent2 {
@@ -1020,7 +948,7 @@ footer a:active {
   }
 
    .cardcopy-justify {
-    padding: 3em 0.15em 1.7em 0.15em;
+    padding: 0;
   }
 
   .parent4 img {
@@ -1029,7 +957,7 @@ footer a:active {
   }
 
    .cardcopy-justify-2 {
-    padding: 2em .5em 2em .5em;
+    padding: 0;
   }
 
   .next {
@@ -1038,7 +966,164 @@ footer a:active {
   }
 
   .p1 {
-    padding: 2em 0 0 .5em;
+    padding: 0;
+  }
+
+  .p2 {
+    padding: 0;
+  }
+
+  .parent3 {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .wrapper {
+    padding: 0;
+    margin: 0 auto;
+  }
+
+  .wrapper2 {
+    padding: 0;
+    margin: 0em auto;
+  }
+
+  .wrapper3 {
+    padding:0;
+    margin: 0em auto;
+    background-color: #FE12E7;
+  }
+
+  .intro {
+    border: .10em solid #FE12E7;
+    padding: .5em;
+    border-radius: .125em;
+    font-family: 'Roboto Slab', serif;
+    font-size: .5em;
+    margin: 1em 1em 0 1em;
+  }
+
+  h2 {
+    padding: 0;
+    font-size: 1em;
+  }
+
+  .rapper {
+    padding: 0;
+    float: none;
+  }
+}
+
+@media only screen and (max-width: 300px) and (min-width: 100px){
+/*  body {
+    background-color: coral;
+  }*/
+
+  .rapper {
+    padding: 0;
+    float: none;
+  }
+
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    font-size: 1em;
+  }
+
+  h4 {
+    font-size: .5em;
+  }
+
+  .f1{
+    line-height: .5em;
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+    font-size: .25em;
+    text-align: center;
+    margin: .5em;
+    font-weight: 300;
+    display: block;
+  }
+
+  .parent1 {
+    float: none;
+    width: 100%;
+    height: auto;
+    margin-bottom: .5em;  
+  }
+
+  .parent2 {
+    float: none;
+    width: 100%;
+    height: auto;
+    margin-bottom: .5em; 
+  }
+
+  .parent3 {
+    float: none;
+    width: 100%%;
+    height: auto;
+  }
+
+  .parent4 {
+    float: none;
+    width: 100%;
+    height: auto;
+    margin-bottom: 1em; 
+  }
+
+  .parent5 {
+    float: none;
+    width: 100%;
+    height: auto;
+    margin-bottom: .5em; 
+  }
+
+  h3 {
+    font-size: .25em;
+  }
+
+  h2 {
+    padding: 0;
+    font-size: 1em;
+  }
+
+  img {
+    padding: .25em;
+    width: 90%;
+  }
+
+  .cardcopy-bottompadding {
+    padding: 0;
+  }
+
+  .parent2 {
+    padding-bottom: .5em;
+  }
+
+   .cardcopy-justify {
+    padding: 0;
+  }
+
+  .parent4 img {
+    width: 90%;
+    height: auto;
+  }
+
+   .cardcopy-justify-2 {
+    padding: 0;
+  }
+
+  .next {
+    padding: 0 0 0 .25em;
+    font-size: 1.5em;
+  }
+
+  .p1 {
+    padding: 1em 0 0 .5em;
   }
 
   .p2 {
@@ -1047,4 +1132,30 @@ footer a:active {
 
   .parent3 {
     width: 100%;
+  }
+  
+  .wrapper {
+    padding: 0;
+    margin: 0 auto;
+  }
+
+  .wrapper2 {
+    padding: 0;
+    margin: 0em auto;
+  }
+
+  .wrapper3 {
+    padding:0;
+    margin: 0em auto;
+    background-color: #FE12E7;
+  }
+
+  .intro {
+    border: .10em solid #FE12E7;
+    padding: .5em;
+    border-radius: .125em;
+    font-family: 'Roboto Slab', serif;
+    font-size: .5em;
+    margin: 1em 1em 0 1em;
+  }
 }
