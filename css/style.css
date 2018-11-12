@@ -759,7 +759,7 @@ footer a:active {
   }
 }
 
-@media only screen and (max-width: 700px) and (min-width: 250px){
+@media only screen and (max-width: 700px) and (min-width: 360px){
 
   .wrapper2 {
     padding: 8em 4em 0 4em;
@@ -906,5 +906,173 @@ footer a:active {
     font-family: 'Roboto Slab', serif;
     font-size: .80em;
     margin: 2.5em 6em .5em 9em; 
+  }
+
+  .parent3 p {
+    font-size: 1em;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #fff;
+    line-height: 2em;
+    text-align: center;
+    width: 80%;
+  }
+}
+
+@media only screen and (max-width: 360px) and (min-width: 250px){
+
+  .wrapper2 {
+    padding: 8em 4em 0 4em;
+    margin: 1em auto;
+    text-align: left;
+  }
+
+  .wrapper {
+    padding: 0 1em;
+    margin: 3em auto;
+    text-align: left;
+  }
+
+  .rapper {
+    padding: 0;
+    float: none;
+  }
+
+  h1 {
+    font-size: 4.5em;
+    text-align: left;
+  }
+
+  h2 {
+    font-size: 2.5em;
+  }
+
+  h4 {
+    font-size: 1.25em;
+  }
+
+ .f1 {
+    line-height: 2em;
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1em;
+    text-align: center;
+    margin: 2em;
+    font-weight: 400;
+    display: block;
+  }
+
+  .parent1 {
+    float: none;
+    width: 95%;
+    height: auto;
+    display: block;
+    margin: 3em auto;
+  }
+
+  .parent2 {
+    float: none;
+    width: 95%;
+    height: auto;
+    display: block;
+    margin: 3em auto;
+  }
+
+  .parent3 {
+    float: none;
+    width: 100%;
+    height: auto;
+    margin: 3em auto;
+    display: block;
+  }
+
+  .parent4 {
+    float: none;
+    width: 95%;
+    height: auto;
+    display: block;
+    margin: 3em auto;
+    padding: 0;
+  }
+
+  .parent5 {
+    float: none;
+    width: 95%;
+    height: auto;
+    display: block;
+    margin: 3em auto;
+    padding: 0;
+  }
+
+  h3 {
+    font-size: 1.5em;
+    font-family: 'Nunito Sans Black', sans-serif;
+    background-color: #57ECFE;
+    opacity: .75;
+    color: #fff;
+    padding: .75em 1.5em;
+  }
+
+  img {
+    padding: 2em 1em 2em 1em;
+    width: 90%;
+  }
+
+  .cardcopy-bottompadding {
+    padding: 3em 2em 0 2em;
+  }
+
+   .cardcopy-justify {
+    padding:3em 2em 1.7em 2em;
+  }
+
+  .parent4 img {
+    width: 90%;
+    height: auto;
+  }
+
+   .cardcopy-justify-2 {
+    padding: 2em 2em 2em 2em;
+  }
+
+  .next {
+    padding: 0 0 0 1.5em;
+    font-size: 1.5em;
+  }
+
+  .p1 {
+    font-size: 1.25em;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #FE12E7;
+    line-height: 2em;
+    text-align: left;
+    padding: 2em 1.5em 0 1.5em;
+    font-weight: bold;
+  }
+
+  .p2 {
+    padding:.25em 0 0 2em;
+  }
+
+  .parent3 {
+    width: 95%;
+  }
+
+  .intro {
+   float: right;
+    border: .10em solid #FE12E7;
+    padding: 1.25em;
+    border-radius: .125em;
+    font-family: 'Roboto Slab', serif;
+    font-size: .67em;
+    margin: 2.5em 6em .5em 9em; 
+  }
+
+  .parent3 p {
+    font-size: 1em;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #fff;
+    line-height: 2em;
+    text-align: center;
+    width: 100%;
   }
 }
