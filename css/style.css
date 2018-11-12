@@ -759,7 +759,7 @@ footer a:active {
   }
 }
 
-@media only screen and (max-width: 700px) and (min-width: 360px){
+@media only screen and (max-width: 700px) and (min-width: 364px){
 
   .wrapper2 {
     padding: 8em 4em 0 4em;
@@ -918,7 +918,7 @@ footer a:active {
   }
 }
 
-@media only screen and (max-width: 360px) and (min-width: 250px){
+@media only screen and (max-width: 364px) and (min-width: 250px){
 
   .wrapper2 {
     padding: 8em 4em 0 4em;
@@ -938,23 +938,24 @@ footer a:active {
   }
 
   h1 {
-    font-size: 4.5em;
+    font-size: 3em;
     text-align: left;
+    padding-top: .5em;
   }
 
   h2 {
-    font-size: 2.5em;
+    font-size: 2em;
   }
 
   h4 {
-    font-size: 1.25em;
+    font-size: 1em;
   }
 
  .f1 {
-    line-height: 2em;
+    line-height: 1.5em;
     color: #fff;
     font-family: 'Roboto Slab', serif;
-    font-size: 1em;
+    font-size: .75em;
     text-align: center;
     margin: 2em;
     font-weight: 400;
@@ -1004,7 +1005,7 @@ footer a:active {
   }
 
   h3 {
-    font-size: 1.5em;
+    font-size: 1.25em;
     font-family: 'Nunito Sans Black', sans-serif;
     background-color: #57ECFE;
     opacity: .75;
@@ -1019,10 +1020,14 @@ footer a:active {
 
   .cardcopy-bottompadding {
     padding: 3em 2em 0 2em;
+    text-align: left;
+    font-size: .8em;
   }
 
    .cardcopy-justify {
     padding:3em 2em 1.7em 2em;
+    text-align: left;
+    font-size: .8em;
   }
 
   .parent4 img {
@@ -1032,10 +1037,12 @@ footer a:active {
 
    .cardcopy-justify-2 {
     padding: 2em 2em 2em 2em;
+    text-align: left;
+    font-size: .8em;
   }
 
   .next {
-    padding: 0 0 0 1.5em;
+    padding: 0 0 0 1em;
     font-size: 1.5em;
   }
 
@@ -1058,12 +1065,12 @@ footer a:active {
   }
 
   .intro {
-   float: right;
+    float: right;
     border: .10em solid #FE12E7;
     padding: 1.25em;
     border-radius: .125em;
     font-family: 'Roboto Slab', serif;
-    font-size: .67em;
+    font-size: .80em;
     margin: 2.5em 3em .5em 3em; 
   }
 
@@ -1074,5 +1081,18 @@ footer a:active {
     line-height: 2em;
     text-align: center;
     width: 100%;
+  }
+
+  h6 {
+    font-size: 1em;
+    font-family: 'georgia', serif;
+    color: #fff;
+    padding: .25em 0;
+    width: 100%;
+    font-weight: lighter;
+    padding: 1em 0;
+    line-height: 1.5em;
+    text-decoration: none;
+    border: none;
   }
 }
