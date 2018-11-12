@@ -374,7 +374,7 @@ footer a:active {
   float: left;
   height: auto;
   margin: 2.5% 2.5% 2.5% 2.5%;
-  padding-bottom: 5.75em;
+  padding-bottom: 3em;
 }
 
 .parent3 {
@@ -499,13 +499,13 @@ footer a:active {
     font-size: 1.45em;
   }
 
-   img {
+  img {
     padding: 6.4em 3em;
     width: 85%;
   }
 
   .parent2 {
-    padding-bottom: 6em;
+    padding-bottom: 3em;
   }
 
    .cardcopy-justify {
@@ -531,7 +531,7 @@ footer a:active {
     font-size: 1em;
   }
 
-   img {
+  img {
     padding: 3em;
     width: 85%;
   }
@@ -553,7 +553,7 @@ footer a:active {
     height: auto;
   }
 
-   .cardcopy-justify-2 {
+  .cardcopy-justify-2 {
     padding: 2em 2em 2em 2em;
   }
 
@@ -624,8 +624,7 @@ footer a:active {
     float: none;
     width: 100%;
     height: auto;
-    margin-bottom: 3em; 
-    padding-bottom: 2em;
+    margin-bottom: 1em; 
   }
 
   .parent3 {
@@ -651,6 +650,7 @@ footer a:active {
   h3 {
     font-size: 1.75em;
     text-align: center;
+    margin-bottom: .5em;
   }
 
   .h3v2 {
@@ -664,10 +664,6 @@ footer a:active {
 
   .cardcopy-bottompadding {
     padding: 3em 2em 0 2em;
-  }
-
-  .parent2 {
-    padding-bottom: 1em;
   }
 
   .cardcopy-justify {
@@ -694,18 +690,14 @@ footer a:active {
     color: #FE12E7;
     line-height: 2em;
     text-align: center;
-    padding: 2em 0 0 0;
+    padding: 1em 0 0 0;
     font-weight: bold;
   }
 
    .p2 {
-    padding: .5em 0 .5em 0;
+    padding: .5em 0 0 0;
     font-size: .95em;
     text-align: center;
-  }
-
-  .parent3 {
-    width: 100%;
   }
 
   .intro {
@@ -777,7 +769,7 @@ footer a:active {
     width: 95%;
     height: auto;
     display: block;
-    margin: 3em auto;
+    margin: 1em auto;
   }
 
   .parent3 {
@@ -814,6 +806,7 @@ footer a:active {
     color: #fff;
     padding: .75em 1.5em;
     text-align: center;
+    margin-bottom: .5em;
   }
 
   img {
@@ -855,18 +848,14 @@ footer a:active {
     color: #FE12E7;
     line-height: 2em;
     text-align: center;
-    padding: 2em 0 .25em 0;
+    padding: 1em 0 0 0;
     font-weight: bold;
   }
 
    .p2 {
-    padding: 1em 0 3.5em 0;
+    padding: .5em 0 .5em 0;
     font-size: 1em;
     text-align: center;
-  }
-
-  .parent3 {
-    width: 100%;
   }
 
   .intro {
