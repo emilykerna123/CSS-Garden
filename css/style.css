@@ -759,7 +759,7 @@ footer a:active {
   }
 }
 
-@media only screen and (max-width: 700px) and (min-width: 500px){
+/*@media only screen and (max-width: 700px) and (min-width: 500px){
 
   .wrapper2 {
     padding: 8em 4em 0 4em;
@@ -917,8 +917,8 @@ footer a:active {
     width: 90%;
   }
 }
-
-@media only screen and (max-width: 500px) and (min-width: 250px){
+*/
+@media only screen and (max-width: 700px) and (min-width: 250px){
 
   .wrapper2 {
     padding: 8em 4em 0 4em;
@@ -955,7 +955,7 @@ footer a:active {
     line-height: 1.5em;
     color: #fff;
     font-family: 'Roboto Slab', serif;
-    font-size: .75em;
+    font-size: 1em;
     text-align: center;
     margin: 2em;
     font-weight: 400;
@@ -1005,7 +1005,7 @@ footer a:active {
   }
 
   h3 {
-    font-size: 1.25em;
+    font-size: 1em;
     font-family: 'Nunito Sans Black', sans-serif;
     background-color: #57ECFE;
     opacity: .75;
@@ -1024,7 +1024,7 @@ footer a:active {
     font-size: .8em;
   }
 
-   .cardcopy-justify {
+  .cardcopy-justify {
     padding:3em 2em 1.7em 2em;
     text-align: left;
     font-size: .8em;
@@ -1047,7 +1047,7 @@ footer a:active {
   }
 
   .p1 {
-    font-size: 1.25em;
+    font-size: 1em;
     font-family: 'Nunito Sans', sans-serif;
     color: #FE12E7;
     line-height: 2em;
@@ -1057,7 +1057,8 @@ footer a:active {
   }
 
   .p2 {
-    padding:.25em 0 0 2em;
+    padding:.15em 1.5em 0 1.5em;
+    font-size: 1em;
   }
 
   .parent3 {
@@ -1094,5 +1095,11 @@ footer a:active {
     line-height: 1.5em;
     text-decoration: none;
     border: none;
+  }
+
+  .wrapper3 {
+    padding: 2em 4em 2em 4em;
+    margin: 0em auto;
+    background-color: #FE12E7;
   }
 }
