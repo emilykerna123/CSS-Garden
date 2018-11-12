@@ -955,7 +955,7 @@ footer a:active {
     line-height: 1.5em;
     color: #fff;
     font-family: 'Roboto Slab', serif;
-    font-size: 1em;
+    font-size: .75em;
     text-align: center;
     margin: 2em;
     font-weight: 400;
@@ -1043,11 +1043,11 @@ footer a:active {
 
   .next {
     padding: 0 0 0 1em;
-    font-size: 1.5em;
+    font-size: 1.25em;
   }
 
   .p1 {
-    font-size: 1em;
+    font-size: .85em;
     font-family: 'Nunito Sans', sans-serif;
     color: #FE12E7;
     line-height: 2em;
@@ -1058,11 +1058,11 @@ footer a:active {
 
   .p2 {
     padding:.15em 1.5em 0 1.5em;
-    font-size: 1em;
+    font-size: .75em;
   }
 
   .parent3 {
-    width: 95%;
+    width: 100%;
   }
 
   .intro {
@@ -1076,22 +1076,23 @@ footer a:active {
   }
 
   .parent3p {
-    font-size: 1em;
+    font-size: .75em;
     font-family: 'Nunito Sans', sans-serif;
     color: #fff;
     line-height: 2em;
     text-align: center;
     width: 100%;
+    padding-top: .5em;
   }
 
   h6 {
-    font-size: 1em;
+    font-size: .65em;
     font-family: 'georgia', serif;
     color: #fff;
     width: 100%;
     font-weight: lighter;
-    padding: 1em 0;
-    line-height: 1.25em;
+    padding: 1.5em 0;
+    line-height: 1.75em;
     text-decoration: none;
     border: none;
   }
@@ -1100,5 +1101,9 @@ footer a:active {
     padding: 2em 4em 2em 4em;
     margin: 0em auto;
     background-color: #FE12E7;
+  }
+
+  .h32 {
+    font-size: 1em;
   }
 }
