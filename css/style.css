@@ -652,7 +652,7 @@ footer a:active {
   }
 }
 
-@media only screen and (max-width: 847px) and (min-width: 700px){
+@media only screen and (max-width: 847px) and (min-width: 800px){
 
   h1 {
     font-size: 5em;
@@ -928,7 +928,7 @@ footer a:active {
   }
 }
 */
-@media only screen and (max-width: 700px) and (min-width: 250px){
+@media only screen and (max-width: 800px) and (min-width: 250px){
 
   .wrapper2 {
     padding: 8em 3.5em 0 2.5em;
