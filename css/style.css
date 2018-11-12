@@ -855,7 +855,7 @@ footer a:active {
 
   img {
     padding: 2em 1em 2em 1em;
-    width: 95%;
+    width: 90%;
   }
 
   .cardcopy-bottompadding {
@@ -905,7 +905,7 @@ footer a:active {
     border-radius: .125em;
     font-family: 'Roboto Slab', serif;
     font-size: .80em;
-    margin: 2.5em 6em .5em 9em; 
+    margin: 2.5em 3em .5em 3em; 
   }
 
   .parent3 p {
@@ -914,7 +914,7 @@ footer a:active {
     color: #fff;
     line-height: 2em;
     text-align: center;
-    width: 80%;
+    width: 90%;
   }
 }
 
@@ -1064,7 +1064,7 @@ footer a:active {
     border-radius: .125em;
     font-family: 'Roboto Slab', serif;
     font-size: .67em;
-    margin: 2.5em 6em .5em 9em; 
+    margin: 2.5em 3em .5em 3em; 
   }
 
   .parent3 p {
