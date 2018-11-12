@@ -670,7 +670,7 @@ footer a:active {
     padding-bottom: 1em;
   }
 
-   .cardcopy-justify {
+  .cardcopy-justify {
     padding:3em 2em 1.7em 2em;
   }
 
@@ -694,12 +694,12 @@ footer a:active {
     color: #FE12E7;
     line-height: 2em;
     text-align: center;
-    padding: 2em 0 .25em 0;
+    padding: 2em 0 0 0;
     font-weight: bold;
   }
 
    .p2 {
-    padding: 1em 0 2em 0;
+    padding: 1em 0 1em 0;
     font-size: .95em;
     text-align: center;
   }
