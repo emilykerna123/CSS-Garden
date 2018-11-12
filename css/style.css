@@ -762,14 +762,15 @@ footer a:active {
 @media only screen and (max-width: 700px) and (min-width: 250px){
 
   .wrapper2 {
-    padding: 0 2em 0 4em;
+    padding: 8em 4em 0 4em;
     margin: 3em auto;
-    text-align: justify;
+    text-align: left;
   }
 
   .wrapper {
-    padding: 0 2em;
+    padding: 0 1em;
     margin: 3em auto;
+    text-align: left;
   }
 
   .rapper {
@@ -790,13 +791,13 @@ footer a:active {
     font-size: 1.25em;
   }
 
-  .f1{
+ .f1 {
     line-height: 2em;
     color: #fff;
     font-family: 'Roboto Slab', serif;
-    font-size: 1em;
+    font-size: .8em;
     text-align: center;
-    margin: 0;
+    margin: 2em;
     font-weight: 400;
     display: block;
   }
@@ -902,13 +903,12 @@ footer a:active {
   }
 
   .intro {
-    float: none;
-    border: none;
+   float: right;
+    border: .10em solid #FE12E7;
     padding: 1.25em;
     border-radius: .125em;
     font-family: 'Roboto Slab', serif;
-    font-size: 1em;
-    margin: 4em 3.5em 1em 2.75em; 
-    width: 95%;
-    text-align: left;
+    font-size: .80em;
+    margin: 2.5em 6em .5em 9em; 
   }
+}
