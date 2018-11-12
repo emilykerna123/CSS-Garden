@@ -761,13 +761,24 @@ footer a:active {
 
 @media only screen and (max-width: 700px) and (min-width: 320px){
 
+  .wrapper2 {
+    padding: 0 6em 0 6em;
+    margin: 3em auto;
+    text-align: justify;
+  }
+
+  .wrapper {
+    padding: 0 2em;
+    margin: 3em auto;
+  }
+
   .rapper {
     padding: 0;
     float: none;
   }
 
   h1 {
-    font-size: 6.5em;
+    font-size: 4.5em;
   }
 
   h2 {
@@ -782,7 +793,7 @@ footer a:active {
     line-height: 2em;
     color: #fff;
     font-family: 'Roboto Slab', serif;
-    font-size: .8em;
+    font-size: 1em;
     text-align: center;
     margin: 2em;
     font-weight: 400;
@@ -791,45 +802,58 @@ footer a:active {
 
   .parent1 {
     float: none;
-    width: 100%;
+    width: 95%;
     height: auto;
-    margin-bottom: 5em;  
+    display: block;
+    margin: 3em auto;
   }
 
   .parent2 {
     float: none;
-    width: 100%;
+    width: 95%;
     height: auto;
-    margin-bottom: 5em; 
+    display: block;
+    margin: 3em auto;
   }
 
   .parent3 {
     float: none;
     width: 100%%;
     height: auto;
+    margin: 3em auto;
+    display: block;
   }
 
   .parent4 {
     float: none;
-    width: 100%;
+    width: 95%;
     height: auto;
-    margin-bottom: 5em; 
+    display: block;
+    margin: 3em auto;
+    padding: 1em 0;
   }
 
   .parent5 {
     float: none;
-    width: 100%;
+    width: 95%;
     height: auto;
-    margin-bottom: 5em; 
+    display: block;
+    margin: 3em auto;
+    padding: 3em 0;
   }
 
   h3 {
     font-size: 1.5em;
+    font-family: 'Nunito Sans Black', sans-serif;
+    background-color: #57ECFE;
+    opacity: .75;
+    color: #fff;
+    padding: .75em 1.5em;
   }
 
   img {
-    padding: 1em;
-    width: 90%;
+    padding: 2em 1em 2em 1em;
+    width: 95%;
   }
 
   .cardcopy-bottompadding {
@@ -859,7 +883,13 @@ footer a:active {
   }
 
   .p1 {
-    padding: 2em 0 0 2em;
+    font-size: 1.25em;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #FE12E7;
+    line-height: 2em;
+    text-align: left;
+    padding: 2em 1.5em 0 1.5em;
+    font-weight: bold;
   }
 
   .p2 {
@@ -869,149 +899,15 @@ footer a:active {
   .parent3 {
     width: 100%;
   }
-}
-/*
-@media only screen and (max-width: 600px) and (min-width: 300px){
-
-  h1 {
-    font-size: 5em;
-  }
-
-  h2 {
-    font-size: 2em;
-  }
-
-  h4 {
-    font-size: 1em;
-  }
-
-  .f1{
-    line-height: 1em;
-    color: #fff;
-    font-family: 'Roboto Slab', serif;
-    font-size: .5em;
-    text-align: center;
-    margin: 1em;
-    font-weight: 300;
-    display: block;
-  }
-
-  .parent1 {
-    float: none;
-    width: 100%;
-    height: auto;
-    margin-bottom: 1em;  
-  }
-
-  .parent2 {
-    float: none;
-    width: 100%;
-    height: auto;
-    margin-bottom: 1em; 
-  }
-
-  .parent3 {
-    float: none;
-    width: 100%%;
-    height: auto;
-  }
-
-  .parent4 {
-    float: none;
-    width: 100%;
-    height: auto;
-    margin-bottom: 1em; 
-  }
-
-  .parent5 {
-    float: none;
-    width: 100%;
-    height: auto;
-    margin-bottom: 1em; 
-  }
-
-  h3 {
-    font-size: .5em;
-  }
-
-  img {
-    padding: .5em;
-    width: 90%;
-  }
-
-  .cardcopy-bottompadding {
-    padding: 0;
-  }
-
-  .parent2 {
-    padding-bottom: .5em;
-  }
-
-   .cardcopy-justify {
-    padding: 0;
-  }
-
-  .parent4 img {
-    width: 90%;
-    height: auto;
-  }
-
-   .cardcopy-justify-2 {
-    padding: 0;
-  }
-
-  .next {
-    padding: 0 0 0 .25em;
-    font-size: 1.5em;
-  }
-
-  .p1 {
-    padding: 0;
-  }
-
-  .p2 {
-    padding: 0;
-  }
-
-  .parent3 {
-    width: 100%;
-    padding: 0;
-    margin: 0;
-  }
-  
-  .wrapper {
-    padding: 0;
-    margin: 0 auto;
-  }
-
-  .wrapper2 {
-    padding: 0;
-    margin: 0em auto;
-  }
-
-  .wrapper3 {
-    padding:0;
-    margin: 0em auto;
-    background-color: #FE12E7;
-  }
 
   .intro {
-    border: .10em solid #FE12E7;
-    padding: .5em;
+    float: none;
+    border: none;
+    padding: 1.25em;
     border-radius: .125em;
     font-family: 'Roboto Slab', serif;
-    font-size: .5em;
-    margin: 1em 1em 0 1em;
-  }
-
-  h2 {
-    padding: 0;
     font-size: 1em;
+    margin: 4em 3.5em 1em 4.5em; 
+    width: 100%;
+    text-align: left;
   }
-
-  .rapper {
-    padding: 0;
-    float: none;
-  }
-}
-*/
